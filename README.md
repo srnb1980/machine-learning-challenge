@@ -15,3 +15,5 @@ I tried 3 models that supports classification.
 I used the minmax scalar for SVM and RF models but had to use standard scalr model for Logistic regression as a part of preprocessing.
 
 Compared to all the 3 models, random forest had a better variability on the training scores and also had more accuracy on the test scores.
+
+All the models are saved into Models folder.
